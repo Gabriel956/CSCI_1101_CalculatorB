@@ -4,7 +4,7 @@
 
  Team Coordinator: Gabriel Baez (:
 
- Collaborator #1: [Student's name]
+ Collaborator #1: [Student's name
  Collaborator #2: [Student's name]
 
 *******************************************************************************/
